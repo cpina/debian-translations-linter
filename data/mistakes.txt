@@ -15,6 +15,7 @@ proveidor|proveïdor
 aixo|això
 seguents|següents
 seguent|següent
+bustia|bústia
 
 
 stricts: (only in msgstr lines)

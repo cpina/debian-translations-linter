@@ -27,11 +27,4 @@ do
 
 	tar -x --wildcards --no-anchored 'ca.po' --to-stdout  -f "$package" > "$OUTPUT_FILE"
 	echo "Output: $OUTPUT_FILE"
-
-	#tamany_found=$?
-
-	#if [ $tamany_found -eq 0 ]
-	#then
-		#echo "Tamany in $package"
-	#fi
 done

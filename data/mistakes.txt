@@ -1,0 +1,23 @@
+tamany|mida
+exemle|exemple
+despres|després
+preferencies|preferències
+titol|títol
+complerta|completa
+comprobar|comprovar
+comprobaran|comprovaràn
+cancela|cancel·la
+contresenya|contrasenya
+blan|blanc
+numero|número
+produit|produït
+proveidor|proveïdor
+aixo|això
+seguents|següents
+seguent|següent
+
+
+stricts: (only in msgstr lines)
+digit|dígit
+dependencies|dependències
+
